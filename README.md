@@ -6,18 +6,11 @@ I referenced: https://cogitooverdose.wordpress.com/2016/02/21/how-to-write-deskt
 
 So basically you have:
 
-[Desktop Entry]
-
-Name= name of application
-
-Comment= generic comment about the program
-
-Terminal= T/F based on whether or not you want a terminal window to open
-
-Exec= path to script that launches application
-
-Type=Application
-
-Icon= icon to be displayed. should be in /usr/share/icons
-
-Categories= the categories of applications associated with the application
+[Desktop Entry]\n
+Name= name of application\n
+Comment= generic comment about the program\n
+Terminal= T/F based on whether or not you want a terminal window to open\n
+Exec= path to script that launches application\n
+Type=Application\n
+Icon= icon to be displayed. should be in /usr/share/icons\n
+Categories= the categories of applications associated with the application\n
