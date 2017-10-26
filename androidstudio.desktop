@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Android Studio
+GenericName=Android Studio
+Comment=Desktop file for Android Studio
+Exec=/usr/local/android-studio/bin/studio.sh
+Icon=androidstudio
+Terminal=false
+Categories=Development;IDE;Development;
+MimeType=text/x-android;
+Keywords=embedded electronics;electronics;avr;microcontroller;
+StartupWMClass=processing-app-Base
